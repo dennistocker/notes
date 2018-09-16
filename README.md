@@ -2,6 +2,9 @@
 
 All my [notes](http://www.syslog.site) hosted on [github](https://github.com/yiran-ever/notes).
 
+## Algorithm
+* [Algorithm](Algorithm/index.md)
+
 ## Language
 
 * [C++](Language/C++/C++.md)
