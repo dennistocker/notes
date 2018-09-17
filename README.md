@@ -1,6 +1,6 @@
 # Notes
 
-All my [notes](http://www.syslog.site) hosted on [github](https://github.com/yiran-ever/notes).
+All my [notes](https://www.syslog.site) hosted on [github](https://github.com/yiran-ever/notes).
 
 ## Algorithm
 * [Algorithm](Algorithm/index.md)
