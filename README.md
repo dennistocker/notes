@@ -7,41 +7,41 @@ All my [notes](https://www.syslog.site) hosted on [github](https://github.com/yi
 
 ## Language
 
-* [C++](Language/C++/C++.md)
-* [Python](Language/Python/Python.md)
-* [Java](Language/Java/Java.md)
-* [Go](Language/Go/Go.md)
+* [C++](Language/C++/index.md)
+* [Python](Language/Python/index.md)
+* [Java](Language/Java/index.md)
+* [Go](Language/Go/index.md)
 
 ## Network
 
-* [TCP/IP](Network/TCPIP/TCPIP.md)
-* [HTTP](Network/HTTP/HTTP.md)
-* [RFC](Network/RFC/RFC.md)
+* [TCP/IP](Network/TCPIP/index.md)
+* [HTTP](Network/HTTP/index.md)
+* [RFC](Network/RFC/idnex.md)
 
 ## Operation System
-* [Linux](OS/Linux/Linux.md)
-* [Mac](OS/Mac/Mac.md)
+* [Linux](OS/Linux/index.md)
+* [Mac](OS/Mac/index.md)
 
 ## Program
 * [GDB](Program/GDB/index.md)
 
 ## DataBase
-* [Redis](DB/Redis/Redis.md)
-* [Mysql](DB/Mysql/Mysql.md)
-* [Berkeley DB](DB/BDB/BDB.md)
+* [Redis](DB/Redis/index.md)
+* [Mysql](DB/Mysql/index.md)
+* [Berkeley DB](DB/BDB/index.md)
 
 ## Version Control
-* [Git](VersionControl/Git/Git.md)
-* [SVN](VersionControl/SVN/SVN.md)
+* [Git](VersionControl/Git/index.md)
+* [SVN](VersionControl/SVN/index.md)
 
 ## BlockChain
-* [BlockChain](BlockChain/BlockChain/BlockChain.md)
-* [BitCoin](BlockChain/BitCoin/BitCoin.md)
-* [Eth](BlockChain/Eth/Eth.md)
-* [EOS](BlockChain/EOS/EOS.md)
+* [BlockChain](BlockChain/BlockChain/index.md)
+* [BitCoin](BlockChain/BitCoin/index.md)
+* [Eth](BlockChain/Eth/index.md)
+* [EOS](BlockChain/EOS/index.md)
 
 ## Office
-* [PPT](Office/PPT/PPT.md)
+* [PPT](Office/PPT/index.md)
 
 
 ## Others
