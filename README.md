@@ -16,7 +16,7 @@ All my [notes](https://www.syslog.site) hosted on [github](https://github.com/yi
 
 * [TCP/IP](Network/TCPIP/index.md)
 * [HTTP](Network/HTTP/index.md)
-* [RFC](Network/RFC/idnex.md)
+* [RFC](Network/RFC/index.md)
 
 ## Operation System
 * [Linux](OS/Linux/index.md)
@@ -27,7 +27,7 @@ All my [notes](https://www.syslog.site) hosted on [github](https://github.com/yi
 
 ## DataBase
 * [Redis](DB/Redis/index.md)
-* [Mysql](DB/Mysql/index.md)
+* [MySQL](DB/MySQL/index.md)
 * [Berkeley DB](DB/BDB/index.md)
 
 ## Version Control
