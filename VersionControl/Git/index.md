@@ -108,6 +108,7 @@
     git config --global alias.ci "commit -a"
     git config --global alias.st status
     git config --global alias.pl "pull -r"
+    git config --global core.ignorecase false
     ```
 
 3. check your settings:
