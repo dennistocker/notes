@@ -17,6 +17,7 @@
 5. 调试命令
     1. strace：Linux下用来跟踪某个进程的系统调用，在mac下可以使用`dtruss`
     2. ldd：在Linux下用来查看某个elf文件依赖的动态链接库，在mac下可以用`otool`
+    3. dstat: glances
 6. Java相关设置
 7. 定制提示符
 
