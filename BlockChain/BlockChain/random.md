@@ -19,7 +19,7 @@ https://medium.com/@kkenji1024/designing-random-number-generators-41e653782a7f
         2. random.org：大气噪音
     2. BitCoin Beacon：比特币的区块数据作为随机源
         1. 缺点：无法防止“块保留攻击”：参与者可以贿赂矿工丢弃不利于自己的区块
-    3. ALgorand: (VRF)Verifiable Random Functions
+    3. Algorand: (VRF)Verifiable Random Functions
         1. F(s,x) = v 作为随机数输出，同时痛处proof和对应s的公钥p
         2. 缺点：参与者可以不发布对于自己不利的签名
     4. Dfinity： BLS
